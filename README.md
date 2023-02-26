@@ -21,5 +21,3 @@ You can create a dataset of your face and train the system with that dataset, wi
 
 <hr />
 
-Not sure where to start? Lets start with documentations, Install app use it and write your experience or make an improvement in existing once. All contributions as little as simple fixing a grammatical error is appreciated.
-
